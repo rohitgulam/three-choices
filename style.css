@@ -41,6 +41,7 @@ h1{
 .toggle-container span{
     margin-left: 28px;
     font-size: 1.8rem;
+    width: 20px;
 }
 
 .toggle{
